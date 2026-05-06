@@ -1,0 +1,359 @@
+{
+  "nav": {
+    "home": "Trang Chủ",
+    "products": "Sản Phẩm",
+    "builder": "Xây Bàn Phím",
+    "soundLab": "Phòng Âm Thanh",
+    "blog": "Blog",
+    "about": "Giới Thiệu",
+    "cart": "Giỏ Hàng",
+    "wishlist": "Yêu Thích",
+    "login": "Đăng Nhập",
+    "register": "Đăng Ký",
+    "dashboard": "Trang Cá Nhân",
+    "logout": "Đăng Xuất"
+  },
+  "home": {
+    "hero": {
+      "title": "Tạo Bàn Phím Hoàn Hảo Của Bạn",
+      "subtitle": "Khám phá bàn phím cơ cao cấp và tùy chỉnh từng linh kiện theo phong cách và cảm giác của bạn.",
+      "cta": "Mua Ngay",
+      "builderCta": "Bắt Đầu Xây",
+      "badge": "Hàng Mới 2024"
+    },
+    "featured": {
+      "title": "Sản Phẩm Nổi Bật",
+      "subtitle": "Những bàn phím được người dùng khắp nơi yêu thích",
+      "viewAll": "Xem Tất Cả Sản Phẩm"
+    },
+    "categories": {
+      "title": "Mua Theo Layout",
+      "subtitle": "Tìm kích thước phù hợp nhất cho bàn làm việc của bạn"
+    },
+    "builder": {
+      "title": "Thiết Kế Bàn Phím Mơ Ước",
+      "subtitle": "Kết hợp case, PCB, switch và keycap với công cụ builder tương tác của chúng tôi",
+      "cta": "Bắt Đầu Xây"
+    },
+    "soundLab": {
+      "title": "Nghe Sự Khác Biệt",
+      "subtitle": "Thử âm thanh switch trước khi mua",
+      "cta": "Mở Phòng Âm Thanh"
+    },
+    "stats": {
+      "products": "Sản Phẩm",
+      "brands": "Thương Hiệu",
+      "customers": "Khách Hàng Hài Lòng",
+      "reviews": "Đánh Giá"
+    }
+  },
+  "products": {
+    "title": "Tất Cả Sản Phẩm",
+    "subtitle": "Khám phá bộ sưu tập bàn phím cơ cao cấp",
+    "filters": {
+      "title": "Bộ Lọc",
+      "category": "Danh Mục",
+      "brand": "Thương Hiệu",
+      "priceRange": "Khoảng Giá",
+      "switchType": "Loại Switch",
+      "connectivity": "Kết Nối",
+      "clearAll": "Xóa Tất Cả",
+      "apply": "Áp Dụng",
+      "allCategories": "Tất Cả Danh Mục",
+      "allBrands": "Tất Cả Thương Hiệu",
+      "allSwitches": "Tất Cả Switch",
+      "linear": "Linear",
+      "tactile": "Tactile",
+      "clicky": "Clicky",
+      "wired": "Có Dây",
+      "wireless": "Không Dây",
+      "bluetooth": "Bluetooth"
+    },
+    "sort": {
+      "label": "Sắp xếp theo",
+      "featured": "Nổi Bật",
+      "priceAsc": "Giá: Thấp đến Cao",
+      "priceDesc": "Giá: Cao đến Thấp",
+      "newest": "Mới Nhất",
+      "rating": "Đánh Giá Cao Nhất"
+    },
+    "card": {
+      "addToCart": "Thêm Vào Giỏ",
+      "addedToCart": "Đã Thêm!",
+      "viewDetails": "Xem Chi Tiết",
+      "outOfStock": "Hết Hàng",
+      "inStock": "Còn Hàng",
+      "rating": "Đánh Giá"
+    },
+    "detail": {
+      "description": "Mô Tả",
+      "specifications": "Thông Số",
+      "reviews": "Đánh Giá",
+      "relatedProducts": "Bạn Có Thể Thích",
+      "addToCart": "Thêm Vào Giỏ",
+      "addToWishlist": "Thêm Vào Yêu Thích",
+      "removeFromWishlist": "Bỏ Yêu Thích",
+      "quantity": "Số Lượng",
+      "sku": "Mã SKU",
+      "availability": "Tình Trạng",
+      "brand": "Thương Hiệu",
+      "category": "Danh Mục",
+      "switchType": "Loại Switch",
+      "layout": "Layout",
+      "connectivity": "Kết Nối",
+      "writeReview": "Viết Đánh Giá"
+    },
+    "noResults": "Không tìm thấy sản phẩm",
+    "noResultsHint": "Thử điều chỉnh bộ lọc hoặc từ khóa tìm kiếm"
+  },
+  "builder": {
+    "title": "Xây Dựng Bàn Phím",
+    "subtitle": "Tạo bàn phím cơ hoàn hảo của bạn, từng bước một",
+    "steps": {
+      "case": "Vỏ",
+      "pcb": "PCB",
+      "switch": "Switch",
+      "keycaps": "Keycap",
+      "review": "Xem Lại"
+    },
+    "case": {
+      "title": "Chọn Vỏ Bàn Phím",
+      "subtitle": "Lựa chọn khung chứa cho bàn phím của bạn",
+      "filterLayout": "Lọc theo Layout"
+    },
+    "pcb": {
+      "title": "Chọn PCB",
+      "subtitle": "Não bộ của bàn phím",
+      "hotswap": "Hot-swap",
+      "wireless": "Không Dây",
+      "filterHotswap": "Chỉ Hot-swap",
+      "filterWireless": "Chỉ Không Dây"
+    },
+    "switch": {
+      "title": "Chọn Switch",
+      "subtitle": "Cảm giác và âm thanh của mỗi phím gõ",
+      "filterType": "Lọc theo Loại",
+      "allTypes": "Tất Cả Loại",
+      "linear": "Linear",
+      "tactile": "Tactile",
+      "clicky": "Clicky",
+      "actuation": "Lực Kích Hoạt",
+      "travel": "Hành Trình",
+      "playSound": "Nghe Âm Thanh"
+    },
+    "keycaps": {
+      "title": "Chọn Keycap",
+      "subtitle": "Trang trí bàn phím của bạn",
+      "material": "Chất Liệu",
+      "profile": "Profile",
+      "legends": "Chú Thích"
+    },
+    "review": {
+      "title": "Xem Lại Bản Xây",
+      "subtitle": "Kiểm tra các lựa chọn trước khi thêm vào giỏ",
+      "totalPrice": "Tổng Giá",
+      "addAllToCart": "Thêm Tất Cả Vào Giỏ",
+      "saveConfig": "Lưu Cấu Hình",
+      "resetBuild": "Đặt Lại",
+      "noSelection": "Chưa chọn"
+    },
+    "next": "Bước Tiếp",
+    "prev": "Quay Lại",
+    "select": "Chọn",
+    "selected": "Đã Chọn",
+    "priceSummary": "Tóm Tắt Xây Dựng",
+    "totalPrice": "Tổng Cộng"
+  },
+  "soundLab": {
+    "title": "Phòng Thử Âm Thanh",
+    "subtitle": "Nghe switch kêu như thế nào trước khi mua",
+    "play": "Phát",
+    "pause": "Dừng",
+    "volume": "Âm Lượng",
+    "switchType": "Loại Switch",
+    "filters": {
+      "all": "Tất Cả Switch",
+      "linear": "Linear",
+      "tactile": "Tactile",
+      "clicky": "Clicky"
+    }
+  },
+  "cart": {
+    "title": "Giỏ Hàng",
+    "empty": "Giỏ hàng trống",
+    "emptyHint": "Duyệt sản phẩm và thêm vào giỏ hàng",
+    "continueShopping": "Tiếp Tục Mua Sắm",
+    "subtotal": "Tạm Tính",
+    "shipping": "Vận Chuyển",
+    "tax": "Thuế",
+    "total": "Tổng Cộng",
+    "checkout": "Tiến Hành Thanh Toán",
+    "remove": "Xóa",
+    "quantity": "Số Lượng",
+    "freeShipping": "Miễn Phí Vận Chuyển",
+    "estimatedDelivery": "Dự Kiến Giao Hàng"
+  },
+  "checkout": {
+    "title": "Thanh Toán",
+    "steps": {
+      "shipping": "Giao Hàng",
+      "payment": "Thanh Toán",
+      "confirmation": "Xác Nhận"
+    },
+    "shipping": {
+      "title": "Thông Tin Giao Hàng",
+      "firstName": "Họ",
+      "lastName": "Tên",
+      "email": "Email",
+      "phone": "Số Điện Thoại",
+      "address": "Địa Chỉ",
+      "city": "Thành Phố",
+      "state": "Tỉnh / Thành",
+      "zipCode": "Mã Bưu Chính",
+      "country": "Quốc Gia",
+      "saveAddress": "Lưu địa chỉ này",
+      "continue": "Tiếp Tục Thanh Toán"
+    },
+    "payment": {
+      "title": "Thông Tin Thanh Toán",
+      "cardNumber": "Số Thẻ",
+      "cardName": "Tên Trên Thẻ",
+      "expiry": "Ngày Hết Hạn",
+      "cvv": "CVV",
+      "placeOrder": "Đặt Hàng"
+    },
+    "confirmation": {
+      "title": "Đặt Hàng Thành Công!",
+      "subtitle": "Cảm ơn bạn đã mua hàng",
+      "orderNumber": "Mã Đơn Hàng",
+      "continueShopping": "Tiếp Tục Mua Sắm",
+      "viewOrder": "Xem Đơn Hàng"
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Chào Mừng Trở Lại",
+      "subtitle": "Đăng nhập vào tài khoản của bạn",
+      "email": "Địa Chỉ Email",
+      "password": "Mật Khẩu",
+      "forgotPassword": "Quên mật khẩu?",
+      "submit": "Đăng Nhập",
+      "noAccount": "Chưa có tài khoản?",
+      "register": "Tạo tài khoản",
+      "orContinueWith": "Hoặc tiếp tục với"
+    },
+    "register": {
+      "title": "Tạo Tài Khoản",
+      "subtitle": "Tham gia cộng đồng bàn phím cơ",
+      "firstName": "Họ",
+      "lastName": "Tên",
+      "email": "Địa Chỉ Email",
+      "password": "Mật Khẩu",
+      "confirmPassword": "Xác Nhận Mật Khẩu",
+      "submit": "Tạo Tài Khoản",
+      "hasAccount": "Đã có tài khoản?",
+      "login": "Đăng nhập",
+      "terms": "Bằng cách tạo tài khoản, bạn đồng ý với Điều Khoản Dịch Vụ và Chính Sách Bảo Mật của chúng tôi"
+    }
+  },
+  "dashboard": {
+    "title": "Trang Cá Nhân",
+    "welcome": "Chào mừng trở lại",
+    "tabs": {
+      "orders": "Lịch Sử Đơn Hàng",
+      "wishlist": "Danh Sách Yêu Thích",
+      "profile": "Cài Đặt Hồ Sơ"
+    },
+    "orders": {
+      "title": "Đơn Hàng Của Bạn",
+      "empty": "Chưa có đơn hàng nào",
+      "orderNumber": "Đơn Hàng",
+      "date": "Ngày",
+      "status": "Trạng Thái",
+      "total": "Tổng Cộng",
+      "viewDetails": "Xem Chi Tiết"
+    },
+    "wishlist": {
+      "title": "Sản Phẩm Đã Lưu",
+      "empty": "Chưa có sản phẩm yêu thích",
+      "remove": "Xóa",
+      "addToCart": "Thêm Vào Giỏ"
+    }
+  },
+  "compare": {
+    "title": "So Sánh Sản Phẩm",
+    "subtitle": "So sánh tối đa 4 bàn phím cạnh nhau",
+    "addProduct": "Thêm Sản Phẩm",
+    "remove": "Xóa",
+    "empty": "Không có sản phẩm để so sánh",
+    "emptyHint": "Thêm sản phẩm từ trang danh sách sản phẩm",
+    "specs": {
+      "price": "Giá",
+      "brand": "Thương Hiệu",
+      "layout": "Layout",
+      "switchType": "Loại Switch",
+      "connectivity": "Kết Nối",
+      "weight": "Trọng Lượng",
+      "material": "Chất Liệu",
+      "rating": "Đánh Giá"
+    }
+  },
+  "blog": {
+    "title": "Blog Bàn Phím Cơ",
+    "subtitle": "Mẹo, đánh giá và hướng dẫn cho người đam mê bàn phím",
+    "readMore": "Đọc Thêm",
+    "publishedOn": "Đăng ngày",
+    "by": "bởi",
+    "categories": {
+      "reviews": "Đánh Giá",
+      "guides": "Hướng Dẫn",
+      "news": "Tin Tức",
+      "modding": "Mod Bàn Phím"
+    }
+  },
+  "about": {
+    "title": "Về MechKeys Store",
+    "subtitle": "Điểm đến hàng đầu cho bàn phím cơ",
+    "story": {
+      "title": "Câu Chuyện Của Chúng Tôi",
+      "content": "Được thành lập bởi những người đam mê bàn phím, MechKeys Store ra đời từ niềm đam mê trải nghiệm gõ phím hoàn hảo. Chúng tôi tuyển chọn những bàn phím cơ và linh kiện tốt nhất từ khắp nơi trên thế giới."
+    },
+    "mission": {
+      "title": "Sứ Mệnh Của Chúng Tôi",
+      "content": "Làm cho bàn phím cơ cao cấp trở nên dễ tiếp cận với mọi người, từ người mới bắt đầu đến người dùng lâu năm."
+    },
+    "team": {
+      "title": "Đội Ngũ Của Chúng Tôi",
+      "subtitle": "Những người đam mê bàn phím tận tụy với trải nghiệm của bạn"
+    },
+    "contact": {
+      "title": "Liên Hệ",
+      "email": "Gửi Email",
+      "discord": "Tham Gia Discord",
+      "instagram": "Theo Dõi Instagram"
+    }
+  },
+  "common": {
+    "loading": "Đang tải...",
+    "error": "Đã xảy ra lỗi",
+    "retry": "Thử Lại",
+    "close": "Đóng",
+    "cancel": "Hủy",
+    "save": "Lưu",
+    "delete": "Xóa",
+    "edit": "Sửa",
+    "confirm": "Xác Nhận",
+    "back": "Quay Lại",
+    "next": "Tiếp Theo",
+    "search": "Tìm Kiếm",
+    "searchPlaceholder": "Tìm kiếm bàn phím...",
+    "currency": "USD",
+    "inStock": "Còn Hàng",
+    "outOfStock": "Hết Hàng",
+    "free": "Miễn Phí",
+    "perPage": "mỗi trang",
+    "showing": "Hiển thị",
+    "of": "trong",
+    "results": "kết quả"
+  }
+}

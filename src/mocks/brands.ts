@@ -1,0 +1,58 @@
+import { type IBrand } from '@/types';
+
+export const MOCK_BRANDS: IBrand[] = [
+  {
+    id: 'brand-keychron',
+    name: 'Keychron',
+    slug: 'keychron',
+    logo: 'https://via.placeholder.com/120x40/667eea/ffffff?text=Keychron',
+    website: 'https://www.keychron.com',
+    country: 'Hong Kong',
+    description: 'Wireless mechanical keyboards for Mac, Windows, and Linux with premium build quality.',
+  },
+  {
+    id: 'brand-gmmk',
+    name: 'GMMK (Glorious)',
+    slug: 'gmmk',
+    logo: 'https://via.placeholder.com/120x40/e55353/ffffff?text=Glorious',
+    website: 'https://www.gloriousgaming.com',
+    country: 'USA',
+    description: 'Building the best gaming peripherals with a focus on modularity and performance.',
+  },
+  {
+    id: 'brand-ducky',
+    name: 'Ducky',
+    slug: 'ducky',
+    logo: 'https://via.placeholder.com/120x40/f5a623/ffffff?text=Ducky',
+    website: 'https://www.duckychannel.com.tw',
+    country: 'Taiwan',
+    description: 'Premium mechanical keyboards since 2008, trusted by gamers and typists worldwide.',
+  },
+  {
+    id: 'brand-leopold',
+    name: 'Leopold',
+    slug: 'leopold',
+    logo: 'https://via.placeholder.com/120x40/4a90d9/ffffff?text=Leopold',
+    website: 'https://leopold.co.kr',
+    country: 'South Korea',
+    description: 'High-quality keyboards with minimalist design and exceptional typing experience.',
+  },
+  {
+    id: 'brand-akko',
+    name: 'Akko',
+    slug: 'akko',
+    logo: 'https://via.placeholder.com/120x40/7b68ee/ffffff?text=Akko',
+    website: 'https://en.akkogear.com',
+    country: 'China',
+    description: 'Innovative keyboards with unique aesthetics and proprietary switches at great prices.',
+  },
+  {
+    id: 'brand-hhkb',
+    name: 'HHKB',
+    slug: 'hhkb',
+    logo: 'https://via.placeholder.com/120x40/2c2c2c/ffffff?text=HHKB',
+    website: 'https://happyhackingkb.com',
+    country: 'Japan',
+    description: 'Happy Hacking Keyboard — the legendary choice for professional programmers and writers.',
+  },
+];

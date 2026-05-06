@@ -1,0 +1,359 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "builder": "KB Builder",
+    "soundLab": "Sound Lab",
+    "blog": "Blog",
+    "about": "About",
+    "cart": "Cart",
+    "wishlist": "Wishlist",
+    "login": "Login",
+    "register": "Register",
+    "dashboard": "Dashboard",
+    "logout": "Logout"
+  },
+  "home": {
+    "hero": {
+      "title": "Build Your Perfect Keyboard",
+      "subtitle": "Discover premium mechanical keyboards and customize every component to match your style and feel.",
+      "cta": "Shop Now",
+      "builderCta": "Start Building",
+      "badge": "New Arrivals 2024"
+    },
+    "featured": {
+      "title": "Featured Products",
+      "subtitle": "Handpicked keyboards loved by enthusiasts worldwide",
+      "viewAll": "View All Products"
+    },
+    "categories": {
+      "title": "Shop by Layout",
+      "subtitle": "Find the perfect form factor for your setup"
+    },
+    "builder": {
+      "title": "Design Your Dream Keyboard",
+      "subtitle": "Mix and match cases, PCBs, switches, and keycaps with our interactive builder",
+      "cta": "Start Building"
+    },
+    "soundLab": {
+      "title": "Hear the Difference",
+      "subtitle": "Test switch sounds before you buy",
+      "cta": "Open Sound Lab"
+    },
+    "stats": {
+      "products": "Products",
+      "brands": "Brands",
+      "customers": "Happy Customers",
+      "reviews": "Reviews"
+    }
+  },
+  "products": {
+    "title": "All Products",
+    "subtitle": "Explore our collection of premium mechanical keyboards",
+    "filters": {
+      "title": "Filters",
+      "category": "Category",
+      "brand": "Brand",
+      "priceRange": "Price Range",
+      "switchType": "Switch Type",
+      "connectivity": "Connectivity",
+      "clearAll": "Clear All",
+      "apply": "Apply Filters",
+      "allCategories": "All Categories",
+      "allBrands": "All Brands",
+      "allSwitches": "All Switch Types",
+      "linear": "Linear",
+      "tactile": "Tactile",
+      "clicky": "Clicky",
+      "wired": "Wired",
+      "wireless": "Wireless",
+      "bluetooth": "Bluetooth"
+    },
+    "sort": {
+      "label": "Sort by",
+      "featured": "Featured",
+      "priceAsc": "Price: Low to High",
+      "priceDesc": "Price: High to Low",
+      "newest": "Newest",
+      "rating": "Highest Rated"
+    },
+    "card": {
+      "addToCart": "Add to Cart",
+      "addedToCart": "Added!",
+      "viewDetails": "View Details",
+      "outOfStock": "Out of Stock",
+      "inStock": "In Stock",
+      "rating": "Rating"
+    },
+    "detail": {
+      "description": "Description",
+      "specifications": "Specifications",
+      "reviews": "Reviews",
+      "relatedProducts": "You May Also Like",
+      "addToCart": "Add to Cart",
+      "addToWishlist": "Add to Wishlist",
+      "removeFromWishlist": "Remove from Wishlist",
+      "quantity": "Quantity",
+      "sku": "SKU",
+      "availability": "Availability",
+      "brand": "Brand",
+      "category": "Category",
+      "switchType": "Switch Type",
+      "layout": "Layout",
+      "connectivity": "Connectivity",
+      "writeReview": "Write a Review"
+    },
+    "noResults": "No products found",
+    "noResultsHint": "Try adjusting your filters or search terms"
+  },
+  "builder": {
+    "title": "Keyboard Builder",
+    "subtitle": "Create your perfect mechanical keyboard, step by step",
+    "steps": {
+      "case": "Case",
+      "pcb": "PCB",
+      "switch": "Switch",
+      "keycaps": "Keycaps",
+      "review": "Review"
+    },
+    "case": {
+      "title": "Choose Your Case",
+      "subtitle": "Select the housing for your keyboard",
+      "filterLayout": "Filter by Layout"
+    },
+    "pcb": {
+      "title": "Choose Your PCB",
+      "subtitle": "The brain of your keyboard",
+      "hotswap": "Hot-swap",
+      "wireless": "Wireless",
+      "filterHotswap": "Hot-swap only",
+      "filterWireless": "Wireless only"
+    },
+    "switch": {
+      "title": "Choose Your Switches",
+      "subtitle": "The feel and sound of every keystroke",
+      "filterType": "Filter by Type",
+      "allTypes": "All Types",
+      "linear": "Linear",
+      "tactile": "Tactile",
+      "clicky": "Clicky",
+      "actuation": "Actuation",
+      "travel": "Travel",
+      "playSound": "Play Sound"
+    },
+    "keycaps": {
+      "title": "Choose Your Keycaps",
+      "subtitle": "Dress up your keyboard",
+      "material": "Material",
+      "profile": "Profile",
+      "legends": "Legends"
+    },
+    "review": {
+      "title": "Review Your Build",
+      "subtitle": "Check your selections before adding to cart",
+      "totalPrice": "Total Price",
+      "addAllToCart": "Add All to Cart",
+      "saveConfig": "Save Configuration",
+      "resetBuild": "Reset Build",
+      "noSelection": "Not selected"
+    },
+    "next": "Next Step",
+    "prev": "Previous",
+    "select": "Select",
+    "selected": "Selected",
+    "priceSummary": "Build Summary",
+    "totalPrice": "Total"
+  },
+  "soundLab": {
+    "title": "Sound Test Lab",
+    "subtitle": "Hear how different switches sound before you buy",
+    "play": "Play",
+    "pause": "Pause",
+    "volume": "Volume",
+    "switchType": "Switch Type",
+    "filters": {
+      "all": "All Switches",
+      "linear": "Linear",
+      "tactile": "Tactile",
+      "clicky": "Clicky"
+    }
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "empty": "Your cart is empty",
+    "emptyHint": "Browse our products and add items to your cart",
+    "continueShopping": "Continue Shopping",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "tax": "Tax",
+    "total": "Total",
+    "checkout": "Proceed to Checkout",
+    "remove": "Remove",
+    "quantity": "Quantity",
+    "freeShipping": "Free Shipping",
+    "estimatedDelivery": "Estimated Delivery"
+  },
+  "checkout": {
+    "title": "Checkout",
+    "steps": {
+      "shipping": "Shipping",
+      "payment": "Payment",
+      "confirmation": "Confirmation"
+    },
+    "shipping": {
+      "title": "Shipping Information",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "phone": "Phone",
+      "address": "Street Address",
+      "city": "City",
+      "state": "State / Province",
+      "zipCode": "ZIP / Postal Code",
+      "country": "Country",
+      "saveAddress": "Save this address",
+      "continue": "Continue to Payment"
+    },
+    "payment": {
+      "title": "Payment Information",
+      "cardNumber": "Card Number",
+      "cardName": "Name on Card",
+      "expiry": "Expiry Date",
+      "cvv": "CVV",
+      "placeOrder": "Place Order"
+    },
+    "confirmation": {
+      "title": "Order Confirmed!",
+      "subtitle": "Thank you for your purchase",
+      "orderNumber": "Order Number",
+      "continueShopping": "Continue Shopping",
+      "viewOrder": "View Order"
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Welcome Back",
+      "subtitle": "Sign in to your account",
+      "email": "Email Address",
+      "password": "Password",
+      "forgotPassword": "Forgot password?",
+      "submit": "Sign In",
+      "noAccount": "Don't have an account?",
+      "register": "Create one",
+      "orContinueWith": "Or continue with"
+    },
+    "register": {
+      "title": "Create Account",
+      "subtitle": "Join the mechanical keyboard community",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email Address",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "submit": "Create Account",
+      "hasAccount": "Already have an account?",
+      "login": "Sign in",
+      "terms": "By creating an account, you agree to our Terms of Service and Privacy Policy"
+    }
+  },
+  "dashboard": {
+    "title": "My Dashboard",
+    "welcome": "Welcome back",
+    "tabs": {
+      "orders": "Order History",
+      "wishlist": "Wishlist",
+      "profile": "Profile Settings"
+    },
+    "orders": {
+      "title": "Your Orders",
+      "empty": "No orders yet",
+      "orderNumber": "Order",
+      "date": "Date",
+      "status": "Status",
+      "total": "Total",
+      "viewDetails": "View Details"
+    },
+    "wishlist": {
+      "title": "Saved Items",
+      "empty": "No saved items",
+      "remove": "Remove",
+      "addToCart": "Add to Cart"
+    }
+  },
+  "compare": {
+    "title": "Compare Products",
+    "subtitle": "Compare up to 4 keyboards side by side",
+    "addProduct": "Add Product",
+    "remove": "Remove",
+    "empty": "No products to compare",
+    "emptyHint": "Add products from the product listing page",
+    "specs": {
+      "price": "Price",
+      "brand": "Brand",
+      "layout": "Layout",
+      "switchType": "Switch Type",
+      "connectivity": "Connectivity",
+      "weight": "Weight",
+      "material": "Material",
+      "rating": "Rating"
+    }
+  },
+  "blog": {
+    "title": "Mechanical Keyboard Blog",
+    "subtitle": "Tips, reviews, and guides for keyboard enthusiasts",
+    "readMore": "Read More",
+    "publishedOn": "Published on",
+    "by": "by",
+    "categories": {
+      "reviews": "Reviews",
+      "guides": "Guides",
+      "news": "News",
+      "modding": "Modding"
+    }
+  },
+  "about": {
+    "title": "About MechKeys Store",
+    "subtitle": "Your premier destination for mechanical keyboards",
+    "story": {
+      "title": "Our Story",
+      "content": "Founded by keyboard enthusiasts, MechKeys Store was born from a passion for the perfect typing experience. We curate the finest mechanical keyboards and components from around the world."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "content": "To make premium mechanical keyboards accessible to everyone, from beginners to seasoned enthusiasts."
+    },
+    "team": {
+      "title": "Our Team",
+      "subtitle": "Passionate keyboard enthusiasts dedicated to your experience"
+    },
+    "contact": {
+      "title": "Get in Touch",
+      "email": "Email Us",
+      "discord": "Join Discord",
+      "instagram": "Follow Instagram"
+    }
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Try Again",
+    "close": "Close",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "confirm": "Confirm",
+    "back": "Back",
+    "next": "Next",
+    "search": "Search",
+    "searchPlaceholder": "Search keyboards...",
+    "currency": "USD",
+    "inStock": "In Stock",
+    "outOfStock": "Out of Stock",
+    "free": "Free",
+    "perPage": "per page",
+    "showing": "Showing",
+    "of": "of",
+    "results": "results"
+  }
+}
